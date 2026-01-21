@@ -8,3 +8,4 @@
 * Caretive Presentation Materials: [Download](01-regular-meetup-20250715/01-regular-meetup-caretive-presentation-20250715.pdf)
 * Meetup Summary & Records: [View](01-regular-meetup-20250715/01-regular-meetup-summary-20250715.md)
 * Meetup Recording (YouTube): [Watch](01-regular-meetup-20250715/01-regular-meetup-summary-20250715.md)
+* [Discord](https://discord.gg/K3mU3EEvWm)
